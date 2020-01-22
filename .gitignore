@@ -1,0 +1,13 @@
+/class_notes/*.iml
+/class_notes/.gradle
+/class_notes/local.properties
+/class_notes/.idea/caches
+/class_notes/.idea/libraries
+/class_notes/.idea/modules.xml
+/class_notes/.idea/workspace.xml
+/class_notes/.idea/navEditor.xml
+/class_notes/.idea/assetWizardSettings.xml
+.DS_Store
+class_notes/build
+class_notes/captures
+class_notes/.externalNativeBuild
